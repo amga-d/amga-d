@@ -2,9 +2,9 @@
   -I am a passionate software engineer interested in technology, programming, and design.
 
 ## 🔧 Skills & Tools
-  -Programming: Java, Javascript, python.
-  -Frontend   : FavaFx, CSS, HTML.
-  -Tools      : Git, GitHub, Figma, SceneBuilder, Wireshark.
+  - Programming: Java, Javascript, python.
+  - Frontend   : FavaFx, CSS, HTML.
+  - Tools      : Git, GitHub, Figma, SceneBuilder, Wireshark.
   
 ## 👀 I’m interested in 
    - Application Development.
@@ -14,10 +14,12 @@
   - [Edu-Hub](https://github.com/Amgad/Edu-Hub): A platform to provide equal access to education resources for underprivileged communities.
 
 ## 🌱 I’m currently learning 
-  - PHP, SQL, JavaScript
-  - 
+  - PHP.
+  - SQL.
+  - JavaScript.
+
 ## 🌍 Connect With Me
-  - [LinkedIn](https://www.linkedin.com/in/amgad)
+  - [LinkedIn](www.linkedin.com/in/amgad-al-ameri)
   - [Portfolio](https://www.canva.com/design/DAGSjMvNteM/X58xoLAxBEVXSPTO2Fb1DQ/view?utm_content=DAGSjMvNteM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <!---
