@@ -23,7 +23,3 @@
   - [LinkedIn](www.linkedin.com/in/amgad-al-ameri)
   - [Portfolio](https://www.canva.com/design/DAGSjMvNteM/X58xoLAxBEVXSPTO2Fb1DQ/view?utm_content=DAGSjMvNteM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-<!---
-amga-d/amga-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
