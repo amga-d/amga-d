@@ -2,11 +2,12 @@
   -I am a passionate software engineer interested in technology, programming, and design.
 
 ## 🔧 Skills & Tools
-  - Programming: Java, Javascript, python.
+  - Programming: Java, Javascript, python, php
   - Frontend   : FavaFx, CSS, HTML.
-  - Tools      : Git, GitHub, Figma, SceneBuilder, Wireshark.
+  - Tools      : Git, GitHub, Wireshark, Docker, Nginx, Figma, SceneBuilder,
   
 ## 👀 I’m interested in 
+   - DevOps
    - Application Development.
    - Cyber Security.
      
