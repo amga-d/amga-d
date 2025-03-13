@@ -9,9 +9,9 @@ I am a passionate software engineer interested in backend development, DevOps, a
 - **Others:** HTML, CSS, Figma, SceneBuilder  
 
 ## 👀 I’m interested in  
+- Backend Development
 - DevOps & Cloud Engineering  
-- Application Development  
-- Cybersecurity  
+- Data Science
 
 ## 🚀 Featured Projects  
 - **[CampusConnect](https://github.com/amga-d/CampusConnect)** – University community hub, backend in PHP, MySQL database, Docker setup.  
