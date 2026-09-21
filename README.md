@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps+.+Cloud Engineering&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" >
+  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps+%7C+SysAdmin+%7C+Cloud+Engineering&font=Fira+Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="DevOps | SysAdmin | Cloud Engineering"/>
 </p>
 
 <p align="center">
@@ -94,8 +94,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=amga-d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amga-d&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=amga-d&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=amga-d&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 </p>
 
 <p align="center">
